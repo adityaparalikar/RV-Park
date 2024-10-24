@@ -1,3 +1,5 @@
+# Do not upload connection info
+lib/connectioninfo.js
 # Logs
 tags
 logs
